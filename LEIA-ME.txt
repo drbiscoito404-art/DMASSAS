@@ -1,0 +1,17 @@
+DMASSAS PIZZARIA — SITE
+
+Arquivos:
+- index.html: página inicial
+- cardapio.html: cardápio integrado ao aplicativo oficial Cardápio Web
+- sobre.html, delivery.html, reservas.html e contato.html
+- css/style.css e js/main.js
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+3. Para publicar, envie todos os arquivos mantendo a mesma estrutura para uma hospedagem estática (GitHub Pages, Netlify etc.).
+
+IMPORTANTE:
+O app oficial exige JavaScript e não disponibilizou os produtos/preços para extração automática durante a montagem. Por isso, a página cardapio.html incorpora o aplicativo oficial e oferece link direto como alternativa. Assim, os preços e itens permanecem atualizados na fonte da pizzaria, sem dados inventados.
+Telefone/WhatsApp: +55 88 99942-3323
+Endereço: Praça Dionísio Rocha de Lucena, 280, Centro, Brejo Santo - CE.
